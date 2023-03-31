@@ -47,7 +47,7 @@ Ret = obj1.Division()
 console.log("Division of obj1:"+Ret)
 
 
-#Que2
+# Que2
 
 class Circle
 {
@@ -77,7 +77,7 @@ Ret = obj.CalculateArea()
 
 console.log("Area is :"+Ret)
 
-#Que3
+# Que3
 
 class Circle
 {
